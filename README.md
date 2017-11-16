@@ -1,6 +1,6 @@
 # SWAPI Box
 
-![Sample UI](https://i.imgur.com/9UyZAoM.gif)
+![Sample UI](https://i.imgur.com/9UyZAoM.gifv)
 
 ## Synopsis
 For this project, we are going to work on developing some muscle memory building out React components. At this point you’ve built at least one basic React app in the past. Now’s the time to leverage that and add some complexity.
